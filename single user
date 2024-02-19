@@ -1,6 +1,6 @@
 A simple API endpoint that shows a single user from a DEMO site // https://reqres.in/
 Method: GET 
-URL: https://reqres.in/api/users/2
+Request URL: https://reqres.in/api/users/2
 Response:
 {
     "data": {
