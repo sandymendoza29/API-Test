@@ -1,0 +1,18 @@
+This request will create a new user:
+Method: POST
+Request URL: https://reqres.in/api/users
+Data:
+{
+	"name": "Sandy Mendoza",
+    "birthday": "Nov 29, 1992",
+    "headline": "Software Testing Professional"
+}
+
+Response:
+{
+    "name": "Sandy Mendoza",
+    "birthday": "Nov 29, 1992",
+    "headline": "Software Testing Professional",
+    "id": "135",
+    "createdAt": "2024-02-19T13:43:54.462Z"
+}
