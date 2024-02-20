@@ -3,7 +3,7 @@ Method: POST
 Request URL: https://reqres.in/api/users
 Data:
 {
-	"name": "Sandy Mendoza",
+    "name": "Sandy Mendoza",
     "birthday": "Nov 29, 1992",
     "headline": "Software Testing Professional"
 }
