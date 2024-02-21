@@ -1,0 +1,17 @@
+A simple API endpoint to update user details
+Method: PUT
+Request URL: https://reqres.in/api/users/2
+Data:
+{
+	"name": "Sandy Mendoza",
+    "job": "Developer",
+    "country": "Singapore"
+
+}
+Response:
+{
+    "name": "Sandy Mendoza",
+    "job": "Developer",
+    "country": "Singapore",
+    "updatedAt": "2024-02-21T13:53:30.652Z"
+}
