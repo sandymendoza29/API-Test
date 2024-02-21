@@ -1,0 +1,4 @@
+This is an API request to DELETE a user:
+Method: DELETE
+Request URL: https://reqres.in/api/users/2
+Response Status: 204 No Content
